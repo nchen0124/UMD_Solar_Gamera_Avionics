@@ -188,8 +188,8 @@
       ],
       "track_widths": [
         0.0,
-        0.5,
-        1.0
+        0.4,
+        0.6
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Motherboard.kicad_pro",
+    "filename": "Daughterboard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -625,7 +625,7 @@
   },
   "sheets": [
     [
-      "00fbb397-187f-478c-8d5a-2c59a7097aab",
+      "131dbee1-75dd-48ac-895c-a8c2c0e267a9",
       "Root"
     ]
   ],
